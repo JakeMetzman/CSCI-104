@@ -1,0 +1,9 @@
+1. An empty string is correctly parenthesized.
+
+2. Any single character is correctly parenthesized.
+
+3. If p is a correctly parenthesized string and c and d are lowercase letters, then cpd is also correctly parenthesized.
+
+4. If p is a correctly parenthesized string, (p) and [p] are correctly parenthesized strings.
+
+5. Anything else (i.e. ("p" or "]p[") is an incorrectly parenthesized string.

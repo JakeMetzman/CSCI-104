@@ -1,0 +1,12 @@
+a)
+	README.md would be tracked and unmodified at this point.
+b)
+	README.md would be tracked and modified at this point. fun_problem.txt would be untracked.
+c)
+	Both README.md and fun_problem.txt would be staged at this point.
+d)
+	Both README.md and fun_problem.txt would be modified at this point.
+e)
+	README.md wouldbe staged at this point. fun_problems.txt would be unmodified at this point. It would contain nothing.
+f)
+	README.md is both staged and modified. This is because a version was staged and then further changed were made to the file.

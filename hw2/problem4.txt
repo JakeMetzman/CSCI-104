@@ -1,0 +1,15 @@
+a)
+	A set of strings, each corresponding to one word found on the webpage, should be used. 
+	Since the presence of the word at least once on the webpage is the data that needs to be
+	stored, a set would work best as there would be no repeats in data or need to store other
+	pieces of data.
+b) 
+	A map of strings for each students name and a corresponding list of strings telling each class the student is
+	enrolled in would be best. This would make looking up a student and seeing what classes the student is enrolled
+	in simple, as each student only exists once and the classes can be in many different student's corresponding
+	"class lists."
+c)
+	An array of strings, each containing one countries name in the order they will march, would be best 
+	for this situation as a predetermined number of countries will be in this set, allowing for an array
+	of the correct size to be allocated. An array has order that will show the order the countries will
+	march in.

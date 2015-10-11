@@ -1,0 +1,32 @@
+Problem 1-
+
+Part A)
+    1, 3, and 5 are acceptable. 
+
+Part B)
+     2,3,4,5 are recommended
+
+Part C)
+     2 is correct
+
+Part D)
+     2 is correct
+
+Part E)
+     1 is correct
+
+Problem 2-
+
+Part A)
+     Only terminal is accepted 
+
+Part B)
+     git add hw1q2b.cpp
+
+Part C)
+     The default text edior will open and prompt you for a message. Then, the
+     repository, including the newly-commited changes, are made into repository
+     history.
+
+
+

@@ -1,0 +1,26 @@
+A)
+	Start analyzing when array is full.
+	Next insert = O(n)
+	following 9 inserts = O(1)
+	so cost/insertions: (n+10)/10 = O(n)
+
+B)
+	Next Insert = O(n)
+	Following sqrt(n) inserts: O(1)
+	cost/insertions ( n + sqrt(n) )/ sqrt(n) = O( n^(1/2) )
+
+C)
+	Worst Case: Pop ( (n/2) + 1 ) times, and then immedietly push again.
+	While this should have an amortized runtime of O(1), it instead has n/2 deletions with a cost of O(n) and a single push with a cost of O(n/2) 
+
+D)
+	Popping down to n/4:
+		next pop: O(n/4)
+		previous pops: O(1) * 3n/4
+		cost/deletions: (3n/4 + n/4) / (3n/4) = O(1)
+	Next push:
+		next push: O(n/4)
+		follwing n/4 pushes: O(1)
+		cost/insertions: n/2 / n/4 = O(1)
+		
+		Much better
