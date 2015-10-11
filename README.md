@@ -1,5 +1,4 @@
 # CS 104 Student Repository
 
-- **Name**: Tommy Trojan
-- **USC ID**: 1234567890
+- **Name**: Jacob Metzman
 - **Email**: ttrojan@usc.edu
